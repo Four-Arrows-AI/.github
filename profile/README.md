@@ -8,8 +8,6 @@
 
 <p align="center">
   <a href="https://fourarrows.ai">Website</a>
-  ·
-  <a href="https://github.com/Four-Arrows-AI/website">Website source</a>
 </p>
 
 ## What We Are Building
@@ -27,5 +25,5 @@ signal, adjust the plan, and measure again.
 Four Arrows is pre-launch. The public website and non-PHI private beta waitlist
 are live. Product and clinical systems are still in development.
 
-Public repositories will appear here as they are ready. We do not publish
-member data, clinical records, or unreviewed health claims.
+We do not publish member data, clinical records, private source code, or
+unreviewed health claims.
