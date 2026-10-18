@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Measurable men's health across Brain, Body, Sleep, and Drive.</strong>
+  <strong>Measurable men's health across Body, Mind, Recovery, and Vitality.</strong>
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@ Four Arrows is building a clearer way to connect how men feel with what their
 bodies are doing. The operating loop is simple: define the goal, track the
 signal, adjust the plan, and measure again.
 
-| Brain | Body | Sleep | Drive |
+| Body | Mind | Recovery | Vitality |
 |---|---|---|---|
-| Cognition, mood, and stress | Strength, composition, and cardio-metabolic markers | Recovery and sleep signals | Hormones and sexual health |
+| Strength, movement, composition, cardiovascular, metabolic, and lipid measures | Cognition, mood, stress, and behavior | Sleep quantity, quality, readiness, breathing, and circadian health | Hormones, sexual function, urologic health, fertility, and hormone-linked symptoms |
 
 ## Current Stage
 
